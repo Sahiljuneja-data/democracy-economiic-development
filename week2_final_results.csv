@@ -1,0 +1,6 @@
+Entity,avg_libdem,avg_gdp,correlation
+United States,0.8,54856.0,-0.411
+Germany,0.845,42435.0,-0.643
+Brazil,0.702,8223.0,0.081
+China,0.055,6413.0,-0.919
+South Africa,0.64,6042.0,0.39
